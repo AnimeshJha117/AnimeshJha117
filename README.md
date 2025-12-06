@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dhnvnf5cj/image/upload/v1765003880/ANIMESH_JHA_1_viecxi.png" alt="Animesh Jha" width="100%">
+  <img src="https://res.cloudinary.com/dhnvnf5cj/image/upload/v1765011625/ANIMESH_JHA_2_im9kqi.png" alt="Animesh Jha" width="100%">
 </div><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
